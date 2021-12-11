@@ -1,0 +1,2 @@
+# pyhtonyemek-dev
+nesibepythonyemeködevi
